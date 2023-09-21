@@ -1,0 +1,77 @@
+body{
+    background-color: #35424a;
+}
+#rubrik{
+    border: 6px solid yellow;
+    background-color: gray;
+}
+.behållare{
+    border: 6px solid yellow;
+    margin: 4px;
+    display: flex;
+    flex-direction: line;
+    justify-content: space-evenly;
+}
+.varumärke{
+    border: 6px solid yellow;
+    margin: 4px;
+    display: flex;
+    flex-direction: line;
+}
+#varu1{
+    color: red;
+    display: flex;
+}
+#varu2{
+    color: wheat;
+}
+.nav{
+    border: 6px solid yellow;
+    margin: 4px;
+    display: flex;
+    flex-direction: line;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.showcase{
+    background-image: url("./img/showcase.jpg");
+    background-repeat: repeat;
+    border: 6px solid yellow;
+    margin-top: 4px;
+    min-height: 400px;
+}
+#info{
+    border: 6px solid yellow;
+    margin: 4px;
+    text-align: auto;
+    color: wheat;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 100px;
+}
+#paragraf{
+    margin-top: 70px;
+    margin-bottom: 120px;
+}
+.nyheter{
+    text-align: auto;
+    border: 6px solid yellow;
+    margin-top: 4px;
+    min-height: 80px;
+    background-color: #35424a;
+    color: #ffffff;
+}
+
+.lådor{
+    border: 6px solid yellow;
+    background-color: wheat;
+    text-align: auto;
+    min-height: 500px;
+}
+.Hälsning{
+    text-align: auto;
+    min-height: 60px;
+    margin-top: 2px;
+    background-color: yellow;
+}
